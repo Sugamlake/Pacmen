@@ -18,12 +18,12 @@ You can add all the pacmen you want and they will bounce around the screen.
 
 ### Features: 
 
--You can create several Pacman at the same time on the screen
+- You can create several Pacman at the same time on the screen.
 
+In the future it could have :
 
-In the future it could have : 
-- Send money to other accounts 
-- Choose an account type when creating an account
+- Delete all the generated pacmans.
+- Manage the movement so they follow a specific path
 
 
 ### MIT License
